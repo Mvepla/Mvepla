@@ -7,18 +7,21 @@ Soy Miguel y como puedes ver si sigues bajando en mi perfil me he dedicado a div
 
 Acabo de finalizar un bootcamp de Data Science, pero he trabajado y aprendido diferentes roles y profesiones como son , atención al cliente telefónica y presencial, ejecutivo comercial de seguros, así como también he sido instructor y manager de un centro de buceo e investigador universitario.
 
-A continuación podrás ver un resumen de mi experiencia profesional incluyendo los estudios que he hecho:
-
-# Miguel Vela Planas
+A continuación podrás ver un resumen de mi formación académica y experiencia profesional:
 
 ## Formación Académica
 
-- Bootcamp Data Science, The Bridge, EDEM escuela de empresarios (2023).
+- Bootcamp Data Science, The Bridge DIgital Talent Accelerator, EDEM escuela de empresarios (2023).
   - Python
-  - SQL, Mongodb
+  - SQL, Mongodb, Postgress
   - PowerBI
   - Data Analysis
   - Machine Learning
+  - Deep learning
+  - AWS
+  - Docker
+  - Pyspark
+    [![My Skills](https://skillicons.dev/icons?i=py,vscode,sqlite,mysql,mongodb,postgres,postman,github,tensorflow,aws,docker&perline=11)](https://skillicons.dev)
   
 - Máster en Recursos Geológicos y Geotecnia, Universidad de Oviedo (2010-2012).
   - Tésis fin de máster: Variación estacional de la playa artificial de El Gayo (Luanco, Asturias).
@@ -57,5 +60,10 @@ A continuación podrás ver un resumen de mi experiencia profesional incluyendo 
 - Sollerdivers, Sóller, Palma de Mallorca (2016)
   - Guía de buceadores certificados. Impartir cursos desde iniciación hasta nivel profesional.
 
+## Contacto
 
+¡Gracias por explorar mi portfolio! Si tienes alguna pregunta o comentario, no dudes en contactarme:
+
+- Correo Electrónico: miguel.vela.planas@gmail.com
+- LinkedIn: [Perfil de LinkedIn](https://www.linkedin.com/in/miguel-vela/)
 
