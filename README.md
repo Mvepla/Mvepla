@@ -21,6 +21,7 @@ A continuación podrás ver un resumen de mi formación académica y experiencia
   - AWS
   - Docker
   - Pyspark
+    
     [![My Skills](https://skillicons.dev/icons?i=py,vscode,sqlite,mysql,mongodb,postgres,postman,github,tensorflow,aws,docker&perline=11)](https://skillicons.dev)
   
 - Máster en Recursos Geológicos y Geotecnia, Universidad de Oviedo (2010-2012).
