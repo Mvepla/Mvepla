@@ -7,7 +7,7 @@ Soy Miguel y como puedes ver si sigues bajando en mi perfil me he dedicado a div
 
 Acabo de finalizar un bootcamp de Data Science, pero he trabajado y aprendido diferentes roles y profesiones como son , atención al cliente telefónica y presencial, ejecutivo comercial de seguros, así como también he sido instructor y manager de un centro de buceo e investigador universitario.
 
-A continuación podrás ver un resumen de mi formación académica y experiencia profesional:
+A continuación podrás ver un resumen de mi formación académica:
 
 ## Formación Académica
 
