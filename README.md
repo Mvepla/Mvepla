@@ -44,3 +44,5 @@ A continuación podrás ver un resumen de mi formación académica:
 - LinkedIn: [Perfil de LinkedIn](https://www.linkedin.com/in/miguel-vela/)
 - Portfolio: [Portfolio](https://github.com/Mvepla/Portfolio)
 
+![Mvepla GitHub stats](https://github-readme-stats.vercel.app/api?username=Mvepla&count_private=true&show_icons=true&theme=dark)
+
