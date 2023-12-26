@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Miguel%20Vela%20👨‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Miguel%20Vela%20Planas%20👨‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 # Bienvenid@ 👋
 
 Si estas leyendo estas líneas.. bienvenid@ a mi perfil!!!
@@ -40,9 +40,8 @@ A continuación podrás ver un resumen de mi formación académica:
 
 ¡Gracias por explorar mi portfolio! Si tienes alguna pregunta o comentario, no dudes en contactarme:
 
-- Correo Electrónico: miguel.vela.planas@gmail.com
+- E-mail: miguel.vela.planas@gmail.com
 - LinkedIn: [Perfil de LinkedIn](https://www.linkedin.com/in/miguel-vela/)
 - Portfolio: [Portfolio](https://github.com/Mvepla/Portfolio)
 
-![Mvepla GitHub stats](https://github-readme-stats.vercel.app/api?username=Mvepla&count_private=true&show_icons=true&theme=dark)
 
