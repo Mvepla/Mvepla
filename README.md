@@ -2,13 +2,13 @@
 
 # Welcome! 👋
 
-If you're reading these lines... welcome to my profile!
+If you are reading these lines... welcome to my profile!
 
-I'm Miguel, and as you can see if you keep scrolling through my profile, I've dedicated myself to various professional sectors.
+I am a Data Scientist, looking for my next professional challenge.
 
-I've just completed a Data Science bootcamp, but I've worked and learned in different roles and professions, such as telephone and in-person customer service, insurance sales executive, and I've also been an instructor and manager at a diving center and a university researcher.
+I recently graduated from the Data Science Bootcamp at The Bridge Digital Talent Accelerator, EDEM Business School. I have prior experience in different professional fields such as customer service and insurance sales. I have also worked as a manager at an international diving center and I have been a Ph.D. Candidate in Physical Oceanography.
 
-Below, you'll find a summary of my academic background:
+Below, you will find a summary of my academic background:
 
 ## Academic Background
 
@@ -30,7 +30,7 @@ Below, you'll find a summary of my academic background:
     
 - Bachelor in Marine Sciences, Universidad Católica de Valencia San Vicente Mártir (2004-2010).
   
-- Medium degree of Sports Technician in diving Level II, Complejo educativo Mas Camarena (2016-2017).
+- Advanced specific vocational training in diving Level II, Complejo educativo Mas Camarena (2016-2017).
   
 - Ph.D. Candidate in Physical Oceanography, Universidad Católica de Valencia San Vicente Mártir (2012-2014).
   - Alcántara-Carrió, J.; Albarracín, S.; Fontán-Bouzas A.; Rey Salgado J.; Montoya, I.; Flor-Blanco G. and Vela, M. (2013) Interaction between the coat and the internal continental platform on timescale. Geo-  Temas 14 ISSN 1576-5172
@@ -40,7 +40,7 @@ Below, you'll find a summary of my academic background:
 ## Contact
 
 
-Thank you for exploring my profile! If you have any questions or comments, please don't hesitate to contact me:
+Thank you for exploring my profile! If you have any questions or comments, please do not hesitate to contact me:
 
 - E-mail: miguel.vela.planas@gmail.com
 - LinkedIn: [Perfil de LinkedIn](https://www.linkedin.com/in/miguel-vela/)
