@@ -25,12 +25,12 @@ Below, you'll find a summary of my academic background:
     
     [![My Skills](https://skillicons.dev/icons?i=py,vscode,sqlite,mysql,mongodb,postgres,postman,github,tensorflow,aws,docker&perline=11)](https://skillicons.dev)
   
-- Master's in Geological Resources and Geotechnics, Universidad de Oviedo (2010-2012).
+- Master in Geological Resources and Geotechnics, Universidad de Oviedo (2010-2012).
   - Master's Thesis: Seasonal Variation of the Artificial Beach "El Gayo" (Luanco, Asturias).
     
-- Bachelor's in Marine Sciences, Universidad Católica de Valencia San Vicente Mártir (2004-2010).
+- Bachelor in Marine Sciences, Universidad Católica de Valencia San Vicente Mártir (2004-2010).
   
-- Intermediate Degree in Sports Technical Diving Level II, Complejo educativo Mas Camarena (2016-2017).
+- Medium degree of Sports Technician in diving Level II, Complejo educativo Mas Camarena (2016-2017).
   
 - Ph.D. Candidate in Physical Oceanography, Universidad Católica de Valencia San Vicente Mártir (2012-2014).
   - Alcántara-Carrió, J.; Albarracín, S.; Fontán-Bouzas A.; Rey Salgado J.; Montoya, I.; Flor-Blanco G. and Vela, M. (2013) Interaction between the coat and the internal continental platform on timescale. Geo-  Temas 14 ISSN 1576-5172
