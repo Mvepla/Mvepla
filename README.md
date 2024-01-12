@@ -14,14 +14,32 @@ Below, you will find a summary of my academic background:
 
 - Data Science Bootcamp, The Bridge Digital Talent Accelerator, EDEM Business School (2023).
     - Python
-    - SQL, MongoDB, PostgreSQL
-    - PowerBI
     - Data Analysis
+        - Web Scraping
+        - Exploratory Analysis
+        - Cleaning Data
+        - Data Transformation
+        - Statistical Analysis
+    - Data Visualization
+        - PowerBI
+        - Seaborn
+        - Matplotlib
     - Machine Learning
-    - Deep Learning
-    - AWS
-    - Docker
-    - PySpark
+        - Scikit-Learn
+        - Tensorflow/Keras
+        - OpenCV
+        - Deep Learning
+    - Databases
+        - SQL
+        - PostgreSQL
+        - MongoDB
+    - API Hosting
+        - AWS
+        - Docker
+        - PySpark
+        - Fl0
+    - Big data:
+        - Pyspark
     
     [![My Skills](https://skillicons.dev/icons?i=py,vscode,sqlite,mysql,mongodb,postgres,postman,github,tensorflow,aws,docker&perline=11)](https://skillicons.dev)
   
