@@ -36,7 +36,6 @@ Below, you will find a summary of my academic background:
     - API Hosting
         - AWS
         - Docker
-        - PySpark
         - Fl0
     - Big data:
         - Pyspark
