@@ -67,8 +67,3 @@ Thank you for exploring my profile! If you have any questions or comments, pleas
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mvepla/Portfolio)
 
 
-- E-mail: miguel.vela.planas@gmail.com
-- LinkedIn: [Perfil de LinkedIn](https://www.linkedin.com/in/miguel-vela/)
-- Portfolio: [Portfolio](https://github.com/Mvepla/Portfolio)
-
-
