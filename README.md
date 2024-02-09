@@ -1,6 +1,7 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Miguel%20Vela%20👨‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
-<picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> # Welcome! 👋
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>Welcome! 👋</b>
 
 If you are reading these lines... welcome to my profile!
 
@@ -10,7 +11,7 @@ I recently graduated from the Data Science Bootcamp at The Bridge Digital Talent
 
 Below, you will find a summary of my academic background:
 
-## Academic Background
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>Academic Background</b>
 
 - Data Science Bootcamp, The Bridge Digital Talent Accelerator, EDEM Business School (2023).
     - Python
@@ -55,7 +56,7 @@ Below, you will find a summary of my academic background:
   - Paper “Verification of general ROMS models on areas controlled by orography. Continental Shelf of Valencian Gulf and Ibiza Channel (W Mediterranean) on the Second Meeting of Physic Oceanography EOF2012
 
 
-## Contact
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>Contact</b>
 
 
 Thank you for exploring my profile! If you have any questions or comments, please do not hesitate to contact me:
