@@ -1,6 +1,6 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Miguel%20Vela%20👨‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
-<picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" #  Welcome! 👋
+#  Welcome! 👋
 
 If you are reading these lines... welcome to my profile!
 
