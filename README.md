@@ -1,6 +1,6 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Miguel%20Vela%20👨‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
-# Welcome! 👋
+# <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" Welcome! 👋
 
 If you are reading these lines... welcome to my profile!
 
@@ -41,7 +41,7 @@ Below, you will find a summary of my academic background:
     - Big data:
         - Pyspark
     
-    [![My Skills](https://skillicons.dev/icons?i=py,vscode,sqlite,mysql,mongodb,postgres,postman,github,tensorflow,aws,docker&perline=11)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=py,ai,vscode,,visualstudio,git,sqlite,mysql,mongodb,postgres,postman,flask,github,powershell,regex,stackoverflow,sklearn,selenium,tensorflow,gcp,aws,docker&perline=11)](https://skillicons.dev)
   
 - Master in Geological Resources and Geotechnics, Universidad de Oviedo (2010-2012).
   - Master's Thesis: Seasonal Variation of the Artificial Beach "El Gayo" (Luanco, Asturias).
