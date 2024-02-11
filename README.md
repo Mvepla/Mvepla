@@ -41,7 +41,7 @@ Below, you will find a summary of my academic background:
         - API-REST
     - Big data:
         - Pyspark
-    
+
     [![My Skills](https://skillicons.dev/icons?i=py,vscode,visualstudio,git,sqlite,mysql,mongodb,postgres,postman,flask,github,powershell,regex,stackoverflow,sklearn,selenium,tensorflow,gcp,aws,docker&perline=11)](https://skillicons.dev)
   
 - Master in Geological Resources and Geotechnics, Universidad de Oviedo (2010-2012).
